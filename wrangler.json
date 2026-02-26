@@ -1,7 +1,7 @@
 {
   "name": "iddura-honda",
   "compatibility_date": "2026-02-26",
-  "workers_dev": true,
+  "workers_dev": false,
   "assets": {
     "directory": "./public"
   },
