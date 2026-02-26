@@ -6,6 +6,10 @@
     {
       "pattern": "hondabyiddura.com",
       "custom_domain": true
+    },
+    {
+      "pattern": "www.hondabyiddura.com",
+      "custom_domain": true
     }
   ],
   "assets": {
