@@ -3,6 +3,9 @@
   "compatibility_date": "2026-02-26",
   "workers_dev": true,
   "assets": {
-    "directory": "."
+    "directory": "./public"
+  },
+  "build": {
+    "command": "rm -rf public && mkdir -p public && cp index.html styles.css script.js public/ && mkdir -p public/assets && cp -R assets/. public/assets/"
   }
 }
